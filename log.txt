@@ -1,0 +1,39 @@
+---------------
+ 1058067933 Start
+ 1058067933 File 1 opened - test_1_1.bin
+ 1058067933 File 2 opened - test_1_1.bin
+ 1058067933 Files ok
+ 1058067933 End
+-----Result-----
+Size: 800b
+Bit errors: 0
+BER: 0.000000
+Time: 0ms
+-----END-----
+
+---------------
+ 1058077864 Start
+ 1058077864 File 1 opened - test_2_1.bin
+ 1058077864 File 2 opened - test_2_1.bin
+ 1058077865 Files ok
+ 1058077865 End
+-----Result-----
+Size: 800b
+Bit errors: 10
+BER: 0.012500
+Time: 1ms
+-----END-----
+
+---------------
+ 1058086921 Start
+ 1058086921 File 1 opened - test_3_1.bin
+ 1058086921 File 2 opened - test_3_1.bin
+ 1058086921 Files ok
+ 1058088069 End
+-----Result-----
+Size: 335544320b
+Bit errors: 209715200
+BER: 0.625000
+Time: 1148ms
+-----END-----
+
